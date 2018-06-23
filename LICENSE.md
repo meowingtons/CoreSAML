@@ -1,4 +1,4 @@
-﻿Copyright for portions of CoreSAML are held by CoverMyMeds, 2012 as part of saml-http-post-reference. All other copyright for project Foo are held by Alex Parker, 2018.
+﻿Copyright for portions of CoreSAML are held by CoverMyMeds, 2012 as part of saml-http-post-reference. All other copyright for CoreSAML are held by Alex Parker, 2018.
 
 Copyright (C) 2018 Alex Parker
 
